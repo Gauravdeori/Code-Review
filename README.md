@@ -1,11 +1,4 @@
----
-title: CodeReview AI
-emoji: 🧠
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
----
+
 
 # 🧠 CodeReview AI
 
@@ -73,4 +66,4 @@ docker run -p 7860:7860 --env-file .env codereview-ai
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
-Built with ❤️ by [Gaurav Deori](https://github.com/Gauravdeori)
+Built  by [Gaurav Deori](https://github.com/Gauravdeori)
